@@ -28,7 +28,7 @@ local data quiz game.
 
 * Lose Page
 
-<img src="ui_images/Lose.png" alt="lose-page" width="200" height="400"/>
+<img src="ui_images/lose.png" alt="lose-page" width="200" height="400"/>
 
 ***
 
